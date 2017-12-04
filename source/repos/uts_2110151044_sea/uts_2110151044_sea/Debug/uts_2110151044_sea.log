@@ -1,0 +1,13 @@
+﻿  uts2110151044sea.cpp
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(140): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(146): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(151): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(244): warning C4091: '': ignored on left of 'color_t' when no variable is declared
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(351): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(360): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(370): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(379): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(388): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\zapah\source\repos\uts_2110151044_sea\uts_2110151044_sea\uts2110151044sea.cpp(397): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  uts_2110151044_sea.vcxproj -> C:\Users\zapah\source\repos\uts_2110151044_sea\Debug\uts_2110151044_sea.exe
+  uts_2110151044_sea.vcxproj -> C:\Users\zapah\source\repos\uts_2110151044_sea\Debug\uts_2110151044_sea.pdb (Partial PDB)
